@@ -1,6 +1,7 @@
 # TikTok Video Downloader
 
 A command line tool for downloading TikTok videos without a watermark.
+Note. CMD run Through Administrator
 ```bash
 ## Usage
 
