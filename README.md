@@ -31,7 +31,7 @@ To install my project, follow these steps:
 
 1. Clone the repository using `git clone https://github.com/Hassan-LLC/tiktok_downloader.git
 2. Install the dependencies using `pip install -r requirements.txt`.
-3. Run the project using `python tiktok_downloader.py "https://www.tiktok.com/@laughloop_1/video/7427821302754430251" -o "my_video.mp4"
+3. Run the project using `thon tiktok_downloader.py "https://www.tiktok.com/@laughloop_1/video/7427821302754430251" -o "my_video.mp4"
 
 ## Usage
 -----
@@ -39,7 +39,8 @@ To install my project, follow these steps:
 To use my project, follow these steps:
 
 1. Open the project directory in your terminal or command prompt.
-2. Run the project using `python tiktok_downloader.py "https://www.tiktok.com/@laughloop_1/video/7427821302754430251" -o "my_video.mp4"
+2. Run the project using `
+python tiktok_downloader.py "https://www.tiktok.com/@laughloop_1/video/7427821302754430251" -o "my_video.mp4"
 3. Follow the prompts to use the project's features.
 
 ## Screenshots
@@ -62,5 +63,5 @@ To contribute to my project, follow these steps:
 
 1. Fork the repository using `https://github.com/Hassan-LLC/tiktok_downloader.git`.
 2. Make changes to the code and commit them using `git commit -m "Your commit message"`.
-3. Push your changes to your forked repository using `git push`.
+3. Push your changes to your pyforked repository using `git push`.
 4. Submit a pull request to the original repository.
