@@ -31,7 +31,7 @@ To install my project, follow these steps:
 
 1. Clone the repository using `git clone https://github.com/Hassan-LLC/tiktok_downloader.git
 2. Install the dependencies using `pip install -r requirements.txt`.
-3. Run the project using `thon tiktok_downloader.py "https://www.tiktok.com/@laughloop_1/video/7427821302754430251" -o "my_video.mp4"
+3. Run the project using `pthon tiktok_downloader.py "https://www.tiktok.com/@laughloop_1/video/7427821302754430251" -o "my_video.mp4"
 
 ## Usage
 -----
@@ -42,6 +42,14 @@ To use my project, follow these steps:
 2. Run the project using
 3. python tiktok_downloader.py "https://www.tiktok.com/@laughloop_1/video/7427821302754430251" 
 -o "my_video.mp4"
+
+
+<h2>Screenshot</h2>
+<p align="center">
+  <img src="https://github.com/Hassan-LLC/tiktok_downloader/raw/master/Screenshot%20(47).png" alt="Screenshot (47)" />
+</p>
+
+
 
 ## Screenshots
 ------------
