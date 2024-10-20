@@ -5,6 +5,13 @@
   <img src="https://github.com/Hassan-LLC/tiktok_downloader/raw/master/Screenshot%20(47).png" alt="Screenshot (47)" />
 </p>
 
+<h2>Screenshot</h2>
+<p align="center">
+  <img src="https://github.com/Hassan-LLC/tiktok_downloader/blob/master/Screenshot%20(48).png" alt="Screenshot (47)" />
+</p>
+
+
+
 A command line tool for downloading TikTok videos without a watermark.
 Note. CMD run Through Administrator
 ```bash
