@@ -55,14 +55,10 @@ To use my project, follow these steps:
 3. python tiktok_downloader.py "https://www.tiktok.com/@laughloop_1/video/7427821302754430251" 
 -o "my_video.mp4"
 
-## Screenshots
-------------
-
-[Insert screenshot 1]
-[Insert screenshot 2]
 
 ## Links
-------
+https://www.facebook.com/Zaibibalouxh/
+
 
 * [Project website](https://www.facebook.com/Zaibibalouxh/)
 * [Documentation](https://yourwebsite.com/docs)
