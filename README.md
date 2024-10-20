@@ -1,5 +1,10 @@
 # TikTok Video Downloader
 
+<h2>Screenshot</h2>
+<p align="center">
+  <img src="https://github.com/Hassan-LLC/tiktok_downloader/raw/master/Screenshot%20(47).png" alt="Screenshot (47)" />
+</p>
+
 A command line tool for downloading TikTok videos without a watermark.
 Note. CMD run Through Administrator
 ```bash
@@ -42,14 +47,6 @@ To use my project, follow these steps:
 2. Run the project using
 3. python tiktok_downloader.py "https://www.tiktok.com/@laughloop_1/video/7427821302754430251" 
 -o "my_video.mp4"
-
-
-<h2>Screenshot</h2>
-<p align="center">
-  <img src="https://github.com/Hassan-LLC/tiktok_downloader/raw/master/Screenshot%20(47).png" alt="Screenshot (47)" />
-</p>
-
-
 
 ## Screenshots
 ------------
