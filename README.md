@@ -40,7 +40,8 @@ To use my project, follow these steps:
 
 1. Open the project directory in your terminal or command prompt.
 2. Run the project using
-3. python tiktok_downloader.py "https://www.tiktok.com/@laughloop_1/video/7427821302754430251" -o "my_video.mp4"
+3. python tiktok_downloader.py "https://www.tiktok.com/@laughloop_1/video/7427821302754430251" 
+-o "my_video.mp4"
 
 ## Screenshots
 ------------
